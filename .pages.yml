@@ -1,4 +1,5 @@
 media: files
+content: switch
 - name: published
   label: Published
   type: boolean
