@@ -1,1 +1,3 @@
 media: files
+content:
+  -name: posts
