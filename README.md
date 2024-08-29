@@ -1,6 +1,6 @@
 ## Hi there 👋
 # You can play my games here : https://retrodead.itch.io
-# you can see my videos here : https://www.youtube.com/@xtrodx/videos
+you can see my videos here : https://www.youtube.com/@xtrodx/videos
 
 <!--
 **RetroDead/retrodead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
